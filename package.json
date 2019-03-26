@@ -33,6 +33,7 @@
     "lodash": "^3.9.1",
     "run-sequence": "^1.1.0"
   },
+  "main": "dist/angular-fancy-modal.js",
   "engines": {
     "node": ">=0.10.x"
   },
